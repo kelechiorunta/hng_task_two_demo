@@ -1,0 +1,23 @@
+
+
+[{
+    "id": 0,
+    "productImg": "./imgs/product1.jpg",
+    "description": "Product 1: Your Number One"
+},
+{
+    "id": 1,
+    "productImg": "./imgs/product2.jpg",
+    "description": "Product 2: Your Number Two"
+},
+{
+    "id": 3,
+    "productImg": "./imgs/product3.jpg",
+    "description": "Product 3: Your Number Three"
+},
+{
+    "id": 4,
+    "productImg": "./imgs/product4.jpg",
+    "description": "Product 1: Your Number Four"
+}
+]
